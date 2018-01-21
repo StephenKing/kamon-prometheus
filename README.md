@@ -40,7 +40,7 @@ Kamon.addReporter(new PrometheusReporter())
 
 ```
 
-That's it! You can now go to [http://localhost:9095] and see the metrics. Check the [reference.conf][1] file for more
+That's it! You can now go to http://localhost:9095 and see the metrics. Check the [reference.conf][1] file for more
 details on what settings can be configured for the module.
 
 
